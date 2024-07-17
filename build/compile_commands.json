@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Workspace/TestToolbar/build",
+  "command": "C:\\MSYS\\mingw64\\bin\\cc.exe -g -o CMakeFiles\\Toolbar.dir\\main.c.obj -c C:\\Workspace\\TestToolbar\\main.c",
+  "file": "C:\\Workspace\\TestToolbar\\main.c",
+  "output": "CMakeFiles\\Toolbar.dir\\main.c.obj"
+}
+]
